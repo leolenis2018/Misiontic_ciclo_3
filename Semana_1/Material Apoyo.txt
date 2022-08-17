@@ -1,0 +1,16 @@
+*** Git and GitHub
+https://medium.com/@dsaldarriaga/git-github-qu%C3%A9-son-y-c%C3%B3mo-se-usan-ae27ac39fc92
+
+*** Introduccion a Git
+https://www.youtube.com/watch?v=XWOTAbptPvY&t=8s
+
+*** Sincronizar Git y GitHub - Semana 01
+https://www.youtube.com/watch?v=8QzqDDbOcCA
+
+*** Introducción al manejo de branches en Git - Semana 01
+https://www.youtube.com/watch?v=dIIZwDy3kGk&t=2s
+
+----------------------------------------------------
+*** Instalación de Git en Windows paso a paso | [2021| 2022]
+https://www.youtube.com/watch?v=cYLapo1FFmA
+
