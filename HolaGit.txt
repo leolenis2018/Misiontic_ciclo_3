@@ -1,1 +1,2 @@
 Este es mi primer archivo para hacer la prueba en este repositorio.
+Se crea una rama diferente a main.
